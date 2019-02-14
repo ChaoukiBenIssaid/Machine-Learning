@@ -6,4 +6,5 @@ In this folder, I share some machine learning algorithms I've applied to real-li
 
 [Restaurant Reviews](https://github.com/Chaoukib/Machine-Learning/blob/master/notebook_restaurant.ipynb)
 
+[Predicting Car Prices](https://github.com/Chaoukib/Machine-Learning/blob/master/notebook_cars.ipynb)
 
