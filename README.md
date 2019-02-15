@@ -8,3 +8,5 @@ In this folder, I share some machine learning algorithms I've applied to real-li
 
 [Predicting Car Prices](https://github.com/Chaoukib/Machine-Learning/blob/master/notebook_cars.ipynb)
 
+[Predicting Rent Prices](https://github.com/Chaoukib/Machine-Learning/blob/master/notebook_dc_airbnb.ipynb)
+
