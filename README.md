@@ -2,7 +2,7 @@
 
 In this folder, I share some machine/deep learning algorithms I've applied to real-life datasets.
 
-- [Happy or Not](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Happy%20House%20_%20CNN%20using%20Keras.ipynb)
+- [Happy or Not (Basic CNN with Keras)](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Happy%20House%20_%20CNN%20using%20Keras.ipynb)
 
 - [Lending Club Loans](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_loans_2007.ipynb)
 
