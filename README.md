@@ -1,6 +1,6 @@
 # Machine Learning
 
-In this folder, I share some machine learning algorithms I've applied to real-life datasets.
+In this folder, I share some machine/deep learning algorithms I've applied to real-life datasets.
 
 - [Lending Club Loans](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_loans_2007.ipynb)
 
