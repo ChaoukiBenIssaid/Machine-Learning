@@ -10,3 +10,5 @@ In this folder, I share some machine/deep learning algorithms I've applied to re
 
 - [Predicting Rent Prices](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_dc_airbnb.ipynb)
 
+- [Happy or Not](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Happy%20House%20_%20CNN%20using%20Keras.ipynb)
+
