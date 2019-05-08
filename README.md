@@ -1,6 +1,6 @@
 # Machine Learning
 
-In this folder, I share some machine/deep learning algorithms I've applied to real-life datasets.
+In this folder, I share some machine/deep learning algorithms I've applied to real-life datasets. To ensure that the notebooks are displayed, I'm using nbviewer to avoid any potential problem in case the notebooks are not well displayed on Github.
 
 - [Happy or Not (Basic CNN with Keras)](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Happy%20House%20_%20CNN%20using%20Keras.ipynb)
 
