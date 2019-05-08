@@ -10,7 +10,11 @@ In this folder, I share some machine/deep learning algorithms I've applied to re
 
 - [Predicting Rent Prices](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_dc_airbnb.ipynb)
 
+- [ResNet for Hand Signs Recognition](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Signs_data.ipynb)
+
 - [Restaurant Reviews](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_restaurant.ipynb)
+
+
 
 
 
