@@ -14,7 +14,7 @@ In this folder, I share some machine/deep learning algorithms I've applied to re
 
 - [Restaurant Reviews](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_restaurant.ipynb)
 
-- [YOLO for object detection](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_restaurant.ipynb)
+- [YOLO for object detection](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/YOLO_%20detection.ipynb)
 
 
 
