@@ -6,6 +6,8 @@ In this folder, I share some machine/deep learning algorithms I've applied to re
 
 - [Lending Club Loans](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_loans_2007.ipynb)
 
+- [Neural Style Transfer](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/Neural%20Style%20Transfer.ipynb)
+
 - [Predicting Car Prices](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_cars.ipynb)
 
 - [Predicting Rent Prices](https://nbviewer.jupyter.org/github/Chaoukib/Machine-Learning/blob/master/notebook_dc_airbnb.ipynb)
